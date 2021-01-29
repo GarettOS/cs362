@@ -2,4 +2,9 @@ The program will ask for input, just input a integer year and press enter
 
 run it with
 
-python3 garett_goodlake_hw1.py
+python3 garett_goodlake_hw1.py.py
+
+run the other program with
+
+python3 garett_goodlake_hw3.py
+

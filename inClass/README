@@ -1,0 +1,4 @@
+fibonacci.py works by inputting a number to get the fibonacci number in the sequence. 
+It includes a factorial function which takes a single number and returns the factorial.
+
+The test_fibonacci tests for things like base cases, regular input, negative numbers 

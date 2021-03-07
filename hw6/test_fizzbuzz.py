@@ -7,6 +7,9 @@ class TestStringMethods(unittest.TestCase):
 
    def test_fizz2(self):
       self.assertEqual(fizzbuzz.fizzbuzz(20), 'Buzz')
+   
+   def test_fizz3(self):
+      self.assertEqual(fizzbuzz.fizzbuzz(30), "FizzBuzz")
 
 if __name__ == '__main__':
    unittest.main()
